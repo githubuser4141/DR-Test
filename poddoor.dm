@@ -16,6 +16,7 @@
 	damage_deflection = 73 // nothing short of an explosive/energy axe is getting through
 	proj_resist = 100
 	poddoor = TRUE
+// blah blah lah lah ah ah aaaaa
 
 var/ertblast = FALSE //If this is true the blast door cannot be deconstructed
 var/deconstruction = INTACT //For the deconstruction steps
