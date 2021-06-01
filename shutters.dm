@@ -5,16 +5,10 @@
 	icon = 'icons/obj/doors/shutters.dmi'
 	layer = SHUTTER_LAYER
 	closingLayer = SHUTTER_LAYER
-<<<<<<< Updated upstream
-	armor = list("melee" = 20, "bullet" = 20, "laser" = 20, "energy" = 75, "bomb" = 25, "bio" = 100, "rad" = 100, "fire" = 100, "acid" = 70)
-	damage_deflection = 20
-	max_integrity = 400
-=======
 	armor = list("melee" = 30, "bullet" = 25, "laser" = 25, "energy" = 75, "bomb" = 25, "bio" = 100, "rad" = 100, "fire" = 100, "acid" = 70)
 	damage_deflection = 26 //fragile, but will block weak melee weapons
 	max_integrity = 200
 	proj_resist = 16 //fragile, blocks .22s
->>>>>>> Stashed changes
 
 /obj/machinery/door/poddoor/shutters/preopen
 	icon_state = "open"
